@@ -17,10 +17,11 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![maths prob 5](https://github.com/sudharsanakumar18/Muttiple-capacity-with-infinite-capacity/assets/138849110/27c27e92-fa4b-4c96-85b7-f017e651c260)
 ![maths prob 5b](https://github.com/sudharsanakumar18/Muttiple-capacity-with-infinite-capacity/assets/138849110/5a58af06-5add-4283-93c8-3687c44f2e92)
 
-## Program
+## Program:
+```
 #Developed By: Sudharsana Kumar S R
 #Reference No: 23007374
-```
+
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
