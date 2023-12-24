@@ -55,7 +55,6 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
 ```
-
 ## Output :
 ![maths prob 5a](https://github.com/sudharsanakumar18/Muttiple-capacity-with-infinite-capacity/assets/138849110/47521510-aa15-4794-a16e-eed0468a7d3b)
 
